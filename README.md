@@ -1,5 +1,6 @@
 # NameToExistingPicture
 Attempt at selecting images often connected to specific names with neural networks
+This was a project by Dániel Egyed and Alex Armand Hegedüs
 
 ## Detailed description
 Let's say we have 'David'. David is a name that many different person can have and they all look mostly different. But what if we were searching for an avarage of those people. Could we find a picture for someone named David?
